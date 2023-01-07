@@ -3,7 +3,11 @@
 
 ## Motivador
 
-Crises, pandemia, guerras, escassez de víveres, incertezas políticas... Com o agravante de ser tudo isso em escala global. Já não é de agora que a humanidade tem passado por vários agravos e, aparentemente, na atualidade são todos os problemas ao mesmo tempo. Mas as adversidades trazem consigo as oportunidades, a possibilidade de evoluir no quesito de saber resolver problemas. 
+Em se tratando de História Moderna o quadr não é bom.
+
+Crises, pandemia, guerras, escassez de víveres, incertezas políticas... Com o agravante de ser tudo isso em escala global. 
+
+Já não é de agora que a humanidade tem passado por vários agravos e, aparentemente, na atualidade são todos os problemas ao mesmo tempo. Mas as adversidades trazem consigo as oportunidades, a possibilidade de evoluir no quesito de saber resolver problemas. 
 
 Com esse objetivo que estamos criando o projeto **Inferentia** que pretende ser um facilitador da evolução social através da disseminação de conhecimentos e aqui estamos chamando você para participar
 
