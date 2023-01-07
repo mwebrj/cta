@@ -3,7 +3,7 @@
 
 ## Motivador
 
-Em se tratando de História Moderna o quadr não é bom.
+Em se tratando de História Moderna o quadro não é nada bom.
 
 Crises, pandemia, guerras, escassez de víveres, incertezas políticas... Com o agravante de ser tudo isso em escala global. 
 
